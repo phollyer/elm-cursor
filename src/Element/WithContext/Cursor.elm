@@ -8,7 +8,7 @@ module Element.WithContext.Cursor exposing
     )
 
 {-| Cursors for use with
-[Elm-UI](https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest/).
+[elm-ui-with-context](https://package.elm-lang.org/packages/miniBill/elm-ui-with-context/latest)).
 
 To see the graphical representation of these visit
 [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/cursor#Keyword_values).
