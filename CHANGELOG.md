@@ -8,6 +8,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 - Nothing at the moment.
 
+## [1.1.0] - 2022-02-11
+
+### Added 
+
+Support for [elm-ui-with-context](https://package.elm-lang.org/packages/miniBill/elm-ui-with-context/latest). Thanks @erlandsona and @lue-bird.
+
 ## [1.0.1] - 2021-04-26
 
 ### Fixed
@@ -20,6 +26,7 @@ Dependency version for Elm-UI so that it **doesn't** force an upgrade to the use
 
 Initial Commit.
 
-[unreleased]: https://github.com/phollyer/elm-cursor/compare/1.0.1...HEAD
+[unreleased]: https://github.com/phollyer/elm-cursor/compare/1.1.0...HEAD
+[1.1.0]: https://github.com/phollyer/elm-cursor/compare/1.0.1...1.1.0
 [1.0.1]: https://github.com/phollyer/elm-cursor/compare/1.0.0...1.0.1
 [1.0.0]: https://github.com/phollyer/elm-cursor/releases/tag/1.0.0
