@@ -8,6 +8,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 - Nothing at the moment.
 
+## [1.1.1] - 2022-02-11
+
+### Fixed 
+
+Typo in docs.
+
 ## [1.1.0] - 2022-02-11
 
 ### Added 
@@ -26,7 +32,8 @@ Dependency version for Elm-UI so that it **doesn't** force an upgrade to the use
 
 Initial Commit.
 
-[unreleased]: https://github.com/phollyer/elm-cursor/compare/1.1.0...HEAD
+[unreleased]: https://github.com/phollyer/elm-cursor/compare/1.1.1...HEAD
+[1.1.1]: https://github.com/phollyer/elm-cursor/compare/1.1.0...1.1.1
 [1.1.0]: https://github.com/phollyer/elm-cursor/compare/1.0.1...1.1.0
 [1.0.1]: https://github.com/phollyer/elm-cursor/compare/1.0.0...1.0.1
 [1.0.0]: https://github.com/phollyer/elm-cursor/releases/tag/1.0.0
